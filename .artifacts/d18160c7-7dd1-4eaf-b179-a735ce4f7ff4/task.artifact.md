@@ -1,0 +1,5 @@
+- [x] Update `app_colors.dart` with the new "Sacred Emerald & Gold" palette
+- [x] Update `app_theme.dart` to apply the new palette to Light and Dark themes
+- [x] Update `app_text_theme.dart` to ensure typography uses the new text colors
+- [x] Verify visual consistency across the app
+- [x] Create walkthrough of the theme changes

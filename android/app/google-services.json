@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "952421995267",
+    "project_id": "astrovedham-79522",
+    "storage_bucket": "astrovedham-79522.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952421995267:android:dbec6b3fb533fc76490f36",
+        "android_client_info": {
+          "package_name": "com.example.astrovedham"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952421995267-lbdv6hcbkbhodsvr6j41ds0s4fv6siqo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.astrovedham",
+            "certificate_hash": "581087a146e13cf7f87d1091ac5a8a64ea53320b"
+          }
+        },
+        {
+          "client_id": "952421995267-ts43u85oen8cmt79gqu3nsohvt265gud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrrk1Y88QIoGXGXcGtAn3RFt3o_HOcqhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952421995267-ts43u85oen8cmt79gqu3nsohvt265gud.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "952421995267-mmtqf008k0mcj2ok6ibtf83vc2kcufge.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.astrovedham"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

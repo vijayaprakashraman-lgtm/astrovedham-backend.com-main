@@ -1,0 +1,366 @@
+[ +583 ms] Artifact Instance of 'MaterialFonts' is not required, skipping update.
+[   +2 ms] Artifact Instance of 'GradleWrapper' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterSdk' is not required, skipping update.
+[        ] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FontSubsetArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'PubDependencies' is not required, skipping update.
+[        ] executing: [D:\flutter/] git -c log.showSignature=false log HEAD -n 1 --pretty=format:%ad --date=iso
+[ +152 ms] Exit code 0 from: git -c log.showSignature=false log HEAD -n 1 --pretty=format:%ad --date=iso
+[        ] 2026-08-26 16:07:51 -0700
+[  +43 ms] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterEngineStamp' is not required, skipping update.
+[        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[   +3 ms] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[ +164 ms] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterEngineStamp' is not required, skipping update.
+[        ] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[  +94 ms] executing: [D:\vp\astrovedham/] D:\flutter\bin\cache\dart-sdk\bin\dart pub --suppress-analytics --directory . get --example
+Resolving dependencies...
+Downloading packages...
+  clock 1.1.2 (1.1.3 available)
+  code_assets 1.2.1 (2.0.0 available)
+  cross_file 0.3.5+4 (0.3.5+5 available)
+  device_info_plus 11.5.0 (13.2.0 available)
+  device_info_plus_platform_interface 7.0.3 (8.1.0 available)
+  dio 5.11.0 (5.11.1 available)
+  dio_web_adapter 2.2.1 (2.2.2 available)
+  file_selector_linux 0.9.4 (0.9.4+1 available)
+  file_selector_macos 0.9.5 (0.9.5+1 available)
+  file_selector_windows 0.9.3+5 (0.9.3+6 available)
+  google_fonts 6.3.3 (8.2.1 available)
+  hooks 2.0.2 (2.2.0 available)
+  image_picker_android 0.8.13+19 (0.8.13+23 available)
+  image_picker_ios 0.8.13+6 (0.8.13+7 available)
+  jni_flutter 1.0.2 (1.0.3 available)
+  material_color_utilities 0.13.0 (0.13.1 available)
+  meta 1.18.3 (1.19.0 available)
+  mime 2.0.0 (2.1.0 available)
+  objective_c 9.5.0 (9.6.0 available)
+  permission_handler 11.4.0 (13.0.2 available)
+  permission_handler_android 12.1.0 (14.1.0 available)
+  permission_handler_platform_interface 4.4.0 (4.4.1 available)
+  platform 3.1.6 (3.2.0 available)
+  pub_semver 2.2.0 (2.2.1 available)
+  record_use 0.6.0 (1.1.1 available)
+  shared_preferences_android 2.4.27 (2.4.28 available)
+  shared_preferences_foundation 2.5.6 (2.5.7 available)
+  stack_trace 1.12.1 (1.12.2 available)
+  syncfusion_flutter_core 28.2.12 (34.2.8 available)
+  syncfusion_flutter_pdf 28.2.12 (34.2.8 available)
+  syncfusion_flutter_pdfviewer 28.2.12 (34.2.8 available)
+  syncfusion_flutter_signaturepad 28.2.12 (34.2.8 available)
+  syncfusion_pdfviewer_macos 28.2.12 (34.2.8 available)
+  syncfusion_pdfviewer_platform_interface 28.2.12 (34.2.8 available)
+  syncfusion_pdfviewer_web 28.2.12 (34.2.8 available)
+  syncfusion_pdfviewer_windows 28.2.12 (34.2.8 available)
+  test_api 0.7.12 (0.7.14 available)
+  url_launcher_android 6.3.32 (6.3.33 available)
+  url_launcher_ios 6.4.1 (6.4.2 available)
+  url_launcher_linux 3.2.2 (3.2.3 available)
+  url_launcher_macos 3.2.5 (3.2.6 available)
+  url_launcher_windows 3.1.5 (3.1.6 available)
+  vector_math 2.4.0 (2.4.2 available)
+  win32 5.15.0 (6.4.0 available)
+  win32_registry 2.1.0 (3.0.3 available)
+  xml 6.6.1 (7.0.1 available)
+  yaml 3.1.3 (3.1.4 available)
+Got dependencies!
+47 packages have newer versions incompatible with dependency constraints.
+Try `flutter pub outdated` for more information.
+[+1451 ms] Found plugin url_launcher at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher-6.3.2\
+[   +8 ms] Found plugin url_launcher_windows at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_windows-3.1.5\
+[  +10 ms] Found plugin url_launcher_web at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_web-2.4.3\
+[   +7 ms] Found plugin url_launcher_macos at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_macos-3.2.5\
+[   +5 ms] Found plugin url_launcher_linux at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_linux-3.2.2\
+[   +4 ms] Found plugin url_launcher_ios at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_ios-6.4.1\
+[   +4 ms] Found plugin url_launcher_android at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.3.32\
+[   +6 ms] Found plugin syncfusion_flutter_pdfviewer at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\syncfusion_flutter_pdfviewer-28.2.12\
+[  +11 ms] Found plugin syncfusion_pdfviewer_windows at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\syncfusion_pdfviewer_windows-28.2.12\
+[   +4 ms] Found plugin syncfusion_pdfviewer_web at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\syncfusion_pdfviewer_web-28.2.12\
+[   +3 ms] Found plugin syncfusion_pdfviewer_macos at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\syncfusion_pdfviewer_macos-28.2.12\
+[  +21 ms] Found plugin device_info_plus at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\device_info_plus-11.5.0\
+[  +21 ms] Found plugin shared_preferences at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences-2.5.5\
+[   +5 ms] Found plugin shared_preferences_windows at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_windows-2.4.1\
+[   +5 ms] Found plugin path_provider_windows at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_windows-2.3.0\
+[   +9 ms] Found plugin shared_preferences_web at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_web-2.4.3\
+[   +3 ms] Found plugin shared_preferences_linux at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_linux-2.4.1\
+[   +2 ms] Found plugin path_provider_linux at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_linux-2.2.2\
+[   +7 ms] Found plugin shared_preferences_foundation at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_foundation-2.5.6\
+[   +4 ms] Found plugin shared_preferences_android at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.27\
+[   +9 ms] Found plugin permission_handler at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler-11.4.0\
+[   +3 ms] Found plugin permission_handler_windows at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_windows-0.2.2\
+[   +5 ms] Found plugin permission_handler_html at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_html-0.1.4+1\
+[   +3 ms] Found plugin permission_handler_apple at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_apple-9.6.1\
+[   +5 ms] Found plugin permission_handler_android at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_android-12.1.0\
+[   +5 ms] Found plugin path_provider at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider-2.1.6\
+[   +3 ms] Found plugin path_provider_foundation at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_foundation-2.6.0\
+[  +18 ms] Found plugin path_provider_android at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.3.1\
+[   +4 ms] Found plugin jni_flutter at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\jni_flutter-1.0.2\
+[   +3 ms] Found plugin jni at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\jni-1.0.3\
+[  +12 ms] Found plugin image_picker at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker-1.2.3\
+[   +2 ms] Found plugin image_picker_windows at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_windows-0.2.2\
+[   +5 ms] Found plugin file_selector_windows at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_windows-0.9.3+5\
+[   +3 ms] Found plugin image_picker_macos at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_macos-0.2.2+1\
+[   +3 ms] Found plugin file_selector_macos at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_macos-0.9.5\
+[   +2 ms] Found plugin image_picker_linux at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_linux-0.2.2\
+[   +3 ms] Found plugin file_selector_linux at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_linux-0.9.4\
+[   +2 ms] Found plugin image_picker_ios at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_ios-0.8.13+6\
+[   +3 ms] Found plugin image_picker_for_web at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_for_web-3.1.1\
+[   +4 ms] Found plugin image_picker_android at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_android-0.8.13+19\
+[   +3 ms] Found plugin flutter_plugin_android_lifecycle at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.35\
+[ +101 ms] Found plugin url_launcher at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher-6.3.2\
+[   +3 ms] Found plugin url_launcher_windows at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_windows-3.1.5\
+[   +4 ms] Found plugin url_launcher_web at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_web-2.4.3\
+[   +3 ms] Found plugin url_launcher_macos at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_macos-3.2.5\
+[   +1 ms] Found plugin url_launcher_linux at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_linux-3.2.2\
+[   +2 ms] Found plugin url_launcher_ios at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_ios-6.4.1\
+[   +2 ms] Found plugin url_launcher_android at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.3.32\
+[   +4 ms] Found plugin syncfusion_flutter_pdfviewer at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\syncfusion_flutter_pdfviewer-28.2.12\
+[   +9 ms] Found plugin syncfusion_pdfviewer_windows at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\syncfusion_pdfviewer_windows-28.2.12\
+[   +2 ms] Found plugin syncfusion_pdfviewer_web at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\syncfusion_pdfviewer_web-28.2.12\
+[   +3 ms] Found plugin syncfusion_pdfviewer_macos at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\syncfusion_pdfviewer_macos-28.2.12\
+[  +12 ms] Found plugin device_info_plus at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\device_info_plus-11.5.0\
+[   +7 ms] Found plugin shared_preferences at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences-2.5.5\
+[   +1 ms] Found plugin shared_preferences_windows at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_windows-2.4.1\
+[   +2 ms] Found plugin path_provider_windows at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_windows-2.3.0\
+[   +2 ms] Found plugin shared_preferences_web at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_web-2.4.3\
+[   +1 ms] Found plugin shared_preferences_linux at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_linux-2.4.1\
+[   +2 ms] Found plugin path_provider_linux at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_linux-2.2.2\
+[   +3 ms] Found plugin shared_preferences_foundation at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_foundation-2.5.6\
+[   +1 ms] Found plugin shared_preferences_android at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.27\
+[   +5 ms] Found plugin permission_handler at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler-11.4.0\
+[   +1 ms] Found plugin permission_handler_windows at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_windows-0.2.2\
+[   +6 ms] Found plugin permission_handler_html at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_html-0.1.4+1\
+[   +1 ms] Found plugin permission_handler_apple at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_apple-9.6.1\
+[   +2 ms] Found plugin permission_handler_android at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_android-12.1.0\
+[   +1 ms] Found plugin path_provider at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider-2.1.6\
+[   +2 ms] Found plugin path_provider_foundation at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_foundation-2.6.0\
+[  +15 ms] Found plugin path_provider_android at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.3.1\
+[   +3 ms] Found plugin jni_flutter at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\jni_flutter-1.0.2\
+[   +3 ms] Found plugin jni at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\jni-1.0.3\
+[   +7 ms] Found plugin image_picker at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker-1.2.3\
+[   +2 ms] Found plugin image_picker_windows at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_windows-0.2.2\
+[   +7 ms] Found plugin file_selector_windows at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_windows-0.9.3+5\
+[   +4 ms] Found plugin image_picker_macos at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_macos-0.2.2+1\
+[   +2 ms] Found plugin file_selector_macos at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_macos-0.9.5\
+[   +2 ms] Found plugin image_picker_linux at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_linux-0.2.2\
+[   +3 ms] Found plugin file_selector_linux at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_linux-0.9.4\
+[   +2 ms] Found plugin image_picker_ios at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_ios-0.8.13+6\
+[   +1 ms] Found plugin image_picker_for_web at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_for_web-3.1.1\
+[   +3 ms] Found plugin image_picker_android at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_android-0.8.13+19\
+[   +1 ms] Found plugin flutter_plugin_android_lifecycle at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.35\
+[  +31 ms] Skipping generating web_plugin_registrant.dart because it is up-to-date.
+[  +53 ms] Found plugin url_launcher at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher-6.3.2\
+[   +2 ms] Found plugin url_launcher_windows at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_windows-3.1.5\
+[   +7 ms] Found plugin url_launcher_web at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_web-2.4.3\
+[   +5 ms] Found plugin url_launcher_macos at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_macos-3.2.5\
+[   +2 ms] Found plugin url_launcher_linux at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_linux-3.2.2\
+[   +3 ms] Found plugin url_launcher_ios at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_ios-6.4.1\
+[   +3 ms] Found plugin url_launcher_android at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.3.32\
+[   +2 ms] Found plugin syncfusion_flutter_pdfviewer at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\syncfusion_flutter_pdfviewer-28.2.12\
+[   +6 ms] Found plugin syncfusion_pdfviewer_windows at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\syncfusion_pdfviewer_windows-28.2.12\
+[   +1 ms] Found plugin syncfusion_pdfviewer_web at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\syncfusion_pdfviewer_web-28.2.12\
+[   +3 ms] Found plugin syncfusion_pdfviewer_macos at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\syncfusion_pdfviewer_macos-28.2.12\
+[  +12 ms] Found plugin device_info_plus at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\device_info_plus-11.5.0\
+[   +9 ms] Found plugin shared_preferences at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences-2.5.5\
+[   +1 ms] Found plugin shared_preferences_windows at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_windows-2.4.1\
+[   +3 ms] Found plugin path_provider_windows at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_windows-2.3.0\
+[   +3 ms] Found plugin shared_preferences_web at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_web-2.4.3\
+[   +1 ms] Found plugin shared_preferences_linux at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_linux-2.4.1\
+[   +2 ms] Found plugin path_provider_linux at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_linux-2.2.2\
+[   +2 ms] Found plugin shared_preferences_foundation at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_foundation-2.5.6\
+[   +1 ms] Found plugin shared_preferences_android at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.27\
+[   +4 ms] Found plugin permission_handler at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler-11.4.0\
+[   +2 ms] Found plugin permission_handler_windows at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_windows-0.2.2\
+[   +4 ms] Found plugin permission_handler_html at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_html-0.1.4+1\
+[   +2 ms] Found plugin permission_handler_apple at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_apple-9.6.1\
+[   +4 ms] Found plugin permission_handler_android at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_android-12.1.0\
+[   +1 ms] Found plugin path_provider at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider-2.1.6\
+[   +2 ms] Found plugin path_provider_foundation at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_foundation-2.6.0\
+[  +11 ms] Found plugin path_provider_android at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.3.1\
+[   +1 ms] Found plugin jni_flutter at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\jni_flutter-1.0.2\
+[   +2 ms] Found plugin jni at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\jni-1.0.3\
+[   +4 ms] Found plugin image_picker at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker-1.2.3\
+[   +2 ms] Found plugin image_picker_windows at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_windows-0.2.2\
+[   +4 ms] Found plugin file_selector_windows at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_windows-0.9.3+5\
+[   +2 ms] Found plugin image_picker_macos at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_macos-0.2.2+1\
+[   +1 ms] Found plugin file_selector_macos at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_macos-0.9.5\
+[   +1 ms] Found plugin image_picker_linux at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_linux-0.2.2\
+[   +1 ms] Found plugin file_selector_linux at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_linux-0.9.4\
+[   +1 ms] Found plugin image_picker_ios at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_ios-0.8.13+6\
+[   +1 ms] Found plugin image_picker_for_web at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_for_web-3.1.1\
+[   +3 ms] Found plugin image_picker_android at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_android-0.8.13+19\
+[   +1 ms] Found plugin flutter_plugin_android_lifecycle at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.35\
+[  +26 ms] Generating D:\vp\astrovedham\android\app\src\main\java\io\flutter\plugins\GeneratedPluginRegistrant.java
+[   +3 ms] Skipping generating GeneratedPluginRegistrant.java because it is up-to-date.
+[   +5 ms] Skipping generating generated_plugin_registrant.h because it is up-to-date.
+[   +2 ms] Skipping generating generated_plugin_registrant.cc because it is up-to-date.
+[   +3 ms] Skipping generating generated_plugins.cmake because it is up-to-date.
+[   +3 ms] Skipping generating generated_plugin_registrant.h because it is up-to-date.
+[   +1 ms] Skipping generating generated_plugin_registrant.cc because it is up-to-date.
+[   +3 ms] Skipping generating generated_plugins.cmake because it is up-to-date.
+[   +4 ms] Skipping generating GeneratedPluginRegistrant.h because it is up-to-date.
+[   +2 ms] Skipping generating GeneratedPluginRegistrant.m because it is up-to-date.
+[   +2 ms] Skipping generating GeneratedPluginRegistrant.swift because it is up-to-date.
+[ +319 ms] Launching lib\main.dart on Chrome in profile mode...
+[  +69 ms] The --pwa-strategy option is deprecated and will be removed in a future Flutter release.
+           For more information, see: https://github.com/flutter/flutter/issues/156910
+[ +102 ms] Found plugin url_launcher at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher-6.3.2\
+[   +1 ms] Found plugin url_launcher_windows at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_windows-3.1.5\
+[   +5 ms] Found plugin url_launcher_web at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_web-2.4.3\
+[   +4 ms] Found plugin url_launcher_macos at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_macos-3.2.5\
+[   +2 ms] Found plugin url_launcher_linux at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_linux-3.2.2\
+[   +2 ms] Found plugin url_launcher_ios at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_ios-6.4.1\
+[   +2 ms] Found plugin url_launcher_android at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.3.32\
+[   +3 ms] Found plugin syncfusion_flutter_pdfviewer at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\syncfusion_flutter_pdfviewer-28.2.12\
+[  +18 ms] Found plugin syncfusion_pdfviewer_windows at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\syncfusion_pdfviewer_windows-28.2.12\
+[   +2 ms] Found plugin syncfusion_pdfviewer_web at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\syncfusion_pdfviewer_web-28.2.12\
+[   +3 ms] Found plugin syncfusion_pdfviewer_macos at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\syncfusion_pdfviewer_macos-28.2.12\
+[  +35 ms] Found plugin device_info_plus at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\device_info_plus-11.5.0\
+[  +11 ms] Found plugin shared_preferences at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences-2.5.5\
+[   +2 ms] Found plugin shared_preferences_windows at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_windows-2.4.1\
+[   +6 ms] Found plugin path_provider_windows at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_windows-2.3.0\
+[   +5 ms] Found plugin shared_preferences_web at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_web-2.4.3\
+[   +2 ms] Found plugin shared_preferences_linux at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_linux-2.4.1\
+[   +2 ms] Found plugin path_provider_linux at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_linux-2.2.2\
+[   +4 ms] Found plugin shared_preferences_foundation at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_foundation-2.5.6\
+[   +2 ms] Found plugin shared_preferences_android at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.27\
+[   +5 ms] Found plugin permission_handler at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler-11.4.0\
+[   +2 ms] Found plugin permission_handler_windows at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_windows-0.2.2\
+[   +4 ms] Found plugin permission_handler_html at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_html-0.1.4+1\
+[   +2 ms] Found plugin permission_handler_apple at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_apple-9.6.1\
+[   +3 ms] Found plugin permission_handler_android at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_android-12.1.0\
+[   +4 ms] Found plugin path_provider at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider-2.1.6\
+[   +2 ms] Found plugin path_provider_foundation at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_foundation-2.6.0\
+[  +16 ms] Found plugin path_provider_android at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.3.1\
+[   +2 ms] Found plugin jni_flutter at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\jni_flutter-1.0.2\
+[   +2 ms] Found plugin jni at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\jni-1.0.3\
+[   +7 ms] Found plugin image_picker at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker-1.2.3\
+[   +2 ms] Found plugin image_picker_windows at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_windows-0.2.2\
+[   +7 ms] Found plugin file_selector_windows at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_windows-0.9.3+5\
+[   +4 ms] Found plugin image_picker_macos at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_macos-0.2.2+1\
+[   +2 ms] Found plugin file_selector_macos at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_macos-0.9.5\
+[   +2 ms] Found plugin image_picker_linux at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_linux-0.2.2\
+[   +2 ms] Found plugin file_selector_linux at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_linux-0.9.4\
+[   +2 ms] Found plugin image_picker_ios at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_ios-0.8.13+6\
+[   +2 ms] Found plugin image_picker_for_web at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_for_web-3.1.1\
+[   +3 ms] Found plugin image_picker_android at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_android-0.8.13+19\
+[   +3 ms] Found plugin flutter_plugin_android_lifecycle at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.35\
+[  +14 ms] generated_plugin_registrant.dart not found. Skipping.
+[   +2 ms] Compiling lib\main.dart for the Web...
+[  +10 ms] Initializing file store
+[  +89 ms] invalidated build due to missing files: D:\vp\astrovedham\web\*\index.html, D:\vp\astrovedham\web\flutter_bootstrap.js
+[   +3 ms] web_entrypoint: Starting due to {InvalidatedReasonKind.outputSetAddition: The following outputs were added to the output set: D:\vp\astrovedham\.dart_tool\flutter_build\1aa875fc98e1679300c38f0b4ecda3da\main.dart,D:\vp\astrovedham\.dart_tool\flutter_build\1aa875fc98e1679300c38f0b4ecda3da\web_plugin_registrant.dart, InvalidatedReasonKind.inputChanged: The following inputs have updated contents: D:\flutter\packages\flutter_tools\lib\src\build_system\targets\web.dart,D:\vp\astrovedham\.dart_tool\package_config.json,D:\vp\astrovedham\pubspec.yaml,D:\vp\astrovedham\.flutter-plugins-dependencies}
+[   +1 ms] Skipping target: gen_localizations
+[   +4 ms] web_templated_files: Starting due to {InvalidatedReasonKind.buildKeyChanged: The target build key changed., InvalidatedReasonKind.outputSetAddition: The following outputs were added to the output set: D:\vp\astrovedham\build\web\*\index.html,D:\vp\astrovedham\build\web\flutter_bootstrap.js, InvalidatedReasonKind.inputMissing: The following inputs were missing: D:\vp\astrovedham\web\*\index.html,D:\vp\astrovedham\web\flutter_bootstrap.js, InvalidatedReasonKind.inputChanged: The following inputs have updated contents: D:\flutter\bin\cache\engine.stamp}
+[ +734 ms] build_hooks: Starting due to {}
+[   +4 ms] web_static_assets: Starting due to {InvalidatedReasonKind.inputChanged: The following inputs have updated contents: D:\flutter\bin\cache\engine.stamp, InvalidatedReasonKind.outputSetAddition: The following outputs were added to the output set: D:\vp\astrovedham\.dart_tool\flutter_build\1aa875fc98e1679300c38f0b4ecda3da\flutter.js,D:\vp\astrovedham\.dart_tool\flutter_build\1aa875fc98e1679300c38f0b4ecda3da\canvaskit\canvaskit.js,D:\vp\astrovedham\.dart_tool\flutter_build\1aa875fc98e1679300c38f0b4ecda3da\canvaskit\canvaskit.js.symbols,D:\vp\astrovedham\.dart_tool\flutter_build\1aa875fc98e1679300c38f0b4ecda3da\canvaskit\canvaskit.wasm,D:\vp\astrovedham\.dart_tool\flutter_build\1aa875fc98e1679300c38f0b4ecda3da\canvaskit\chromium\canvaskit.js,D:\vp\astrovedham\.dart_tool\flutter_build\1aa875fc98e1679300c38f0b4ecda3da\canvaskit\chromium\canvaskit.js.symbols,D:\vp\astrovedham\.dart_tool\flutter_build\1aa875fc98e1679300c38f0b4ecda3da\canvaskit\chromium\canvaskit.wasm,D:\vp\astrovedham\.dart_tool\flutter_build\1aa875fc98e1679300c38f0b4ecda3da\canvaskit\skwasm.js,D:\vp\astrovedham\.dart_tool\flutter_build\1aa875fc98e1679300c38f0b4ecda3da\canvaskit\skwasm.js.symbols,D:\vp\astrovedham\.dart_tool\flutter_build\1aa875fc98e1679300c38f0b4ecda3da\canvaskit\skwasm.wasm,D:\vp\astrovedham\.dart_tool\flutter_build\1aa875fc98e1679300c38f0b4ecda3da\canvaskit\skwasm_heavy.js,D:\vp\astrovedham\.dart_tool\flutter_build\1aa875fc98e1679300c38f0b4ecda3da\canvaskit\skwasm_heavy.js.symbols,D:\vp\astrovedham\.dart_tool\flutter_build\1aa875fc98e1679300c38f0b4ecda3da\canvaskit\skwasm_heavy.wasm,D:\vp\astrovedham\.dart_tool\flutter_build\1aa875fc98e1679300c38f0b4ecda3da\canvaskit\webparagraph\canvaskit.js,D:\vp\astrovedham\.dart_tool\flutter_build\1aa875fc98e1679300c38f0b4ecda3da\canvaskit\webparagraph\canvaskit.js.symbols,D:\vp\astrovedham\.dart_tool\flutter_build\1aa875fc98e1679300c38f0b4ecda3da\canvaskit\webparagraph\canvaskit.wasm,D:\vp\astrovedham\.dart_tool\flutter_build\1aa875fc98e1679300c38f0b4ecda3da\canvaskit\wimp.js,D:\vp\astrovedham\.dart_tool\flutter_build\1aa875fc98e1679300c38f0b4ecda3da\canvaskit\wimp.js.symbols,D:\vp\astrovedham\.dart_tool\flutter_build\1aa875fc98e1679300c38f0b4ecda3da\canvaskit\wimp.wasm}
+[ +200 ms] web_static_assets: Complete
+[  +79 ms] web_templated_files: Complete
+[  +78 ms] Found plugin url_launcher at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher-6.3.2\
+[   +2 ms] Found plugin url_launcher_windows at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_windows-3.1.5\
+[  +14 ms] Running build hooks for web.
+[  +23 ms] Found plugin url_launcher_web at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_web-2.4.3\
+[  +76 ms] Found plugin url_launcher_macos at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_macos-3.2.5\
+[   +3 ms] Found plugin url_launcher_linux at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_linux-3.2.2\
+[  +21 ms] Found plugin url_launcher_ios at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_ios-6.4.1\
+[   +6 ms] Found plugin url_launcher_android at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.3.32\
+[   +6 ms] Found plugin syncfusion_flutter_pdfviewer at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\syncfusion_flutter_pdfviewer-28.2.12\
+[  +57 ms] input.json contents:
+           {
+             "assets": {},
+             "config": {
+               "build_asset_types": [],
+               "linking_enabled": true
+             },
+             "out_dir_shared": "D:\\vp\\astrovedham\\.dart_tool\\hooks_runner\\shared\\objective_c\\build\\",
+             "out_file": "D:\\vp\\astrovedham\\.dart_tool\\hooks_runner\\objective_c\\6782ff62a0\\output.json",
+             "package_name": "objective_c",
+             "package_root": "C:\\Users\\arang\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\objective_c-9.5.0\\",
+             "user_defines": {}
+           }
+[  +25 ms] Found plugin syncfusion_pdfviewer_windows at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\syncfusion_pdfviewer_windows-28.2.12\
+[   +3 ms] Found plugin syncfusion_pdfviewer_web at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\syncfusion_pdfviewer_web-28.2.12\
+[   +1 ms] output.json contents:
+           {
+             "assets_for_linking": {},
+             "status": "success",
+             "timestamp": "2026-09-16 14:18:07.000"
+           }
+[   +8 ms] Skipping build for objective_c in D:\vp\astrovedham\.dart_tool\hooks_runner\objective_c\6782ff62a0\. Last build on 2026-09-16 14:18:07.000.
+[  +20 ms] Running build hooks for web done.
+[  +14 ms] build_hooks: Complete
+[  +20 ms] Found plugin syncfusion_pdfviewer_macos at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\syncfusion_pdfviewer_macos-28.2.12\
+[  +25 ms] Found plugin device_info_plus at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\device_info_plus-11.5.0\
+[  +18 ms] Found plugin shared_preferences at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences-2.5.5\
+[   +3 ms] Found plugin shared_preferences_windows at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_windows-2.4.1\
+[   +4 ms] Found plugin path_provider_windows at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_windows-2.3.0\
+[   +9 ms] Found plugin shared_preferences_web at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_web-2.4.3\
+[  +10 ms] Found plugin shared_preferences_linux at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_linux-2.4.1\
+[   +7 ms] Found plugin path_provider_linux at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_linux-2.2.2\
+[   +6 ms] Found plugin shared_preferences_foundation at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_foundation-2.5.6\
+[   +5 ms] Found plugin shared_preferences_android at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.27\
+[   +6 ms] Found plugin permission_handler at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler-11.4.0\
+[   +3 ms] Found plugin permission_handler_windows at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_windows-0.2.2\
+[   +4 ms] Found plugin permission_handler_html at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_html-0.1.4+1\
+[   +3 ms] Found plugin permission_handler_apple at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_apple-9.6.1\
+[   +5 ms] Found plugin permission_handler_android at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_android-12.1.0\
+[   +3 ms] Found plugin path_provider at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider-2.1.6\
+[   +3 ms] Found plugin path_provider_foundation at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_foundation-2.6.0\
+[  +17 ms] Found plugin path_provider_android at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.3.1\
+[   +2 ms] Found plugin jni_flutter at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\jni_flutter-1.0.2\
+[   +3 ms] Found plugin jni at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\jni-1.0.3\
+[   +9 ms] Found plugin image_picker at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker-1.2.3\
+[   +9 ms] Found plugin image_picker_windows at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_windows-0.2.2\
+[  +18 ms] Found plugin file_selector_windows at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_windows-0.9.3+5\
+[   +5 ms] Found plugin image_picker_macos at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_macos-0.2.2+1\
+[   +5 ms] Found plugin file_selector_macos at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_macos-0.9.5\
+[   +3 ms] Found plugin image_picker_linux at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_linux-0.2.2\
+[   +3 ms] Found plugin file_selector_linux at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_linux-0.9.4\
+[   +3 ms] Found plugin image_picker_ios at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_ios-0.8.13+6\
+[   +5 ms] Found plugin image_picker_for_web at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_for_web-3.1.1\
+[   +5 ms] Found plugin image_picker_android at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_android-0.8.13+19\
+[   +3 ms] Found plugin flutter_plugin_android_lifecycle at C:\Users\arang\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.35\
+[  +30 ms] web_entrypoint: Complete
+[  +10 ms] dart2js: Starting due to {}
+[  +37 ms] executing: D:\flutter\bin\cache\dart-sdk\bin\dart.exe compile js --platform-binaries=D:\flutter\bin\cache\flutter_web_sdk\kernel --invoker=flutter_tool -Ddart.vm.profile=true -DFLUTTER_BUILD_NAME=1.0.0 -DFLUTTER_BUILD_NUMBER=1 -DFLUTTER_VERSION=3.47.2 -DFLUTTER_CHANNEL=stable -DFLUTTER_GIT_URL=https://github.com/flutter/flutter.git -DFLUTTER_FRAMEWORK_REVISION=d3b14c8769 -DFLUTTER_ENGINE_REVISION=a804b26164 -DFLUTTER_DART_VERSION=3.13.2 -DFLUTTER_WEB_USE_SKIA=true -DFLUTTER_WEB_USE_SKWASM=false -DFLUTTER_WEB_CANVASKIT_URL=https://www.gstatic.com/flutter-canvaskit/a804b261645ef8c13eb3d5c44a5c2fb0340c5539/ --write-resources --enable-experiment=record-use --native-null-assertions -O4 --no-minify -o D:\vp\astrovedham\.dart_tool\flutter_build\1aa875fc98e1679300c38f0b4ecda3da\app.dill --packages=D:\vp\astrovedham\.dart_tool\package_config.json --cfe-only D:\vp\astrovedham\.dart_tool\flutter_build\1aa875fc98e1679300c38f0b4ecda3da\main.dart
+[+26169 ms] Compiled 62,714,510 input bytes (54,007,828 characters source) to 51,953,688 kernel bytes in 25.3 seconds
+            Dart file .dart_tool/flutter_build/1aa875fc98e1679300c38f0b4ecda3da/main.dart compiled to dill: .dart_tool/flutter_build/1aa875fc98e1679300c38f0b4ecda3da/app.dill.
+
+            'record-use' is now enabled by default; this flag is no longer required.
+[        ] executing: D:\flutter\bin\cache\dart-sdk\bin\dart.exe compile js --platform-binaries=D:\flutter\bin\cache\flutter_web_sdk\kernel --invoker=flutter_tool -Ddart.vm.profile=true -DFLUTTER_BUILD_NAME=1.0.0 -DFLUTTER_BUILD_NUMBER=1 -DFLUTTER_VERSION=3.47.2 -DFLUTTER_CHANNEL=stable -DFLUTTER_GIT_URL=https://github.com/flutter/flutter.git -DFLUTTER_FRAMEWORK_REVISION=d3b14c8769 -DFLUTTER_ENGINE_REVISION=a804b26164 -DFLUTTER_DART_VERSION=3.13.2 -DFLUTTER_WEB_USE_SKIA=true -DFLUTTER_WEB_USE_SKWASM=false -DFLUTTER_WEB_CANVASKIT_URL=https://www.gstatic.com/flutter-canvaskit/a804b261645ef8c13eb3d5c44a5c2fb0340c5539/ --write-resources --enable-experiment=record-use --native-null-assertions -O4 --no-minify -o D:\vp\astrovedham\.dart_tool\flutter_build\1aa875fc98e1679300c38f0b4ecda3da\main.dart.js D:\vp\astrovedham\.dart_tool\flutter_build\1aa875fc98e1679300c38f0b4ecda3da\app.dill
+^C

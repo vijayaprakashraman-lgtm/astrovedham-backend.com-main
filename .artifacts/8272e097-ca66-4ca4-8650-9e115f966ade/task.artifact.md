@@ -1,0 +1,23 @@
+# Task: AstroVedham Flutter ↔ Backend Integration
+
+- `[x]` Core & Network Setup
+    - `[x]` Create `lib/core/config/api_config.dart`
+    - `[x]` Update `lib/core/network/api_client.dart` with Dio implementation
+- `[x]` Models & Services
+    - `[x]` Update `lib/models/order.dart` to match backend structure
+    - `[x]` Create `lib/features/orders/data/services/order_service.dart`
+- `[x]` Data Layer & Repositories
+    - `[x]` Update `lib/repositories/order_repository.dart` to use `OrderService`
+    - `[x]` Update `lib/core/providers/order_provider.dart` for backend calls and pagination
+- `[x]` Features: Orders & UI
+    - `[x]` Create `lib/features/orders/presentation/screens/order_detail_screen.dart`
+    - `[x]` Register order details route in `lib/core/routes/app_routes.dart`
+    - `[x]` Update `lib/features/orders/presentation/screens/orders_screen.dart` with backend listing and "Load More"
+    - `[x]` Update `lib/features/orders/presentation/widgets/order_card.dart`
+- `[x]` Features: Horoscope & Reports
+    - `[x]` Update `lib/features/horoscope/presentation/screens/review_details_screen.dart` for order creation
+    - `[x]` Update `lib/features/horoscope/presentation/screens/pdf_viewer_screen.dart` for backend report fetching
+- `[x]` Verification & Final Polish
+    - `[x]` End-to-end testing (Creation, Listing, Details, PDF)
+    - `[x]` Error handling and loading state verification
+    - `[x]` Final walkthrough documentation

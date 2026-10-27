@@ -1,0 +1,6 @@
+[ +412 ms] Could not find an option named "--web-renderer".
+
+[   +2 ms] Run 'flutter -h' (or 'flutter <command> -h') for available flutter commands and options.
+[        ] Running 1 shutdown hook
+[   +1 ms] Shutdown hooks complete
+[        ] exiting with code 64
